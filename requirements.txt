@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+google-genai
+
+sentence-transformers
+
+qdrant-client
+
+pymupdf
+
+sqlalchemy
+
+redis
